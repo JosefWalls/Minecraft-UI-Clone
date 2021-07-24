@@ -1,0 +1,27 @@
+.WorldSelection {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.WorldSelection main {
+    width: 30vw;
+    height: 75vh;
+    background: rgb(33, 33, 33);
+}
+
+.WorldSelection div header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.322);
+    display: flex;
+    padding-left: 2vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.WorldSelection__Realms p {
+    border: 1px solid rgba(255, 255, 255, 0.322);
+    padding: 2vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}

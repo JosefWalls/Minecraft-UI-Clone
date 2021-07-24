@@ -1,0 +1,22 @@
+.InitialLanding__logo {
+    width: 40vw;
+    margin-top: -10vh;
+    object-fit: contain;
+    height: 25%;
+}
+
+.IntialLanding__Clickables {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5vw;
+}
+
+.IntialLanding__Clickables section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    background: red;
+    padding: 1vh;
+}

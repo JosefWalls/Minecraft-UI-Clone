@@ -1,0 +1,14 @@
+.WorldSelectionHeader {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid red;
+}
+
+.WorldSelectionHeader p {
+    font-size: 1.2rem;
+}
+
+/* #WorldSelectionHeader_CurrentSelection {
+    background: lightgrey;
+    color: rgb(33, 33, 33);
+} */
